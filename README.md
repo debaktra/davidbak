@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... debaktra@gmail.com
+- 📫 How to reach me ... debakgut@gmail.com
 
 <!---
 debaktra/debaktra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
